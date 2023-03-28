@@ -1,0 +1,31 @@
+#titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color:whitesmoke;
+    background-color: #000;
+
+}
+body{
+    background-color: whitesmoke;
+}
+
+#boton{
+    display: block;
+    margin: auto;
+    font-family: serif;
+    font-size: larger;
+    font-weight: 100;
+    border: 2px solid black;
+    border-radius: 10%;
+    cursor: pointer;
+}
+
+#imagen{
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+    height: auto;
+    border: 2px solid rgb(147, 136, 218);
+    background-color: whitesmoke;
+}
+
